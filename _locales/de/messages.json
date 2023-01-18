@@ -1,0 +1,68 @@
+{
+  "extName": {
+    "message": "Semanta - Millionen wissenschaftliche Artikel"
+  },
+  "extDesc": {
+    "message": "Semanta gibt Zugriff auf wisschenschaftliche Artikel, Paper, und PDFs"
+  },
+  "ext_default_title": {
+    "message": "Semanta"
+  },
+  "downloadThisPaper": {
+    "message": "Diesen Artikel laden"
+  },
+  "instructions": {
+    "message": "Anleitung"
+  },
+  "settings": {
+    "message": "Einstellungen"
+  },
+  "rateMe": {
+    "message": "Bewerte mich"
+  },
+  "shareMe": {
+    "message": "Share the Love"
+  },
+  "thanks": {
+    "message": "Danke! "
+  },
+  "youHaveDownloaded": {
+    "message": "Du hast"
+  },
+  "xPapers": {
+    "message": "Artikel geladen"
+  },
+  "paperSearchURL": {
+    "message": "Artikel-Such-Domain"
+  },
+  "paperSearchURLExplanation": {
+    "message": "Die Domain für den Paper Service den du benutzen möchtest"
+  },
+  "openPapersInNewTab": {
+    "message": "Artikel in neuem Tab öffnen"
+  },
+  "openPapersInNewTabExplanation": {
+    "message": "Wenn diese Option aktiviert ist, öffnen sich Artikel automatisch in einem neuen Tab"
+  },
+  "paperSearchDomains": {
+    "message": "Artikel-Such-Domains"
+  },
+  "paperSearchDomainsExplanation": {
+    "message": "Wenn die ausgewähle Artikel-Such-Domain nicht funktioniert, kannst du eine von diesen probieren: "
+  },
+  "instructionsURL": {
+    "message": "https://semanta.ir"
+  },
+  "welcomeURL": {
+    "message": "https://semanta.ir"
+  },
+  "goodbyeURL": {
+    "message": "https://semanta.ir"
+  },
+  "SemantaRecommends": {
+    "message": "Semanta empfielht"
+  },
+  "lastItem": {
+    "message": "last item"
+  }
+}

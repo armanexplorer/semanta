@@ -1,0 +1,68 @@
+{
+  "extName": {
+    "message": "Semanta - Descarga millones de ensayos académicos"
+  },
+  "extDesc": {
+    "message": "Semanta te ayuda a descargar ensayos académicos"
+  },
+  "ext_default_title": {
+    "message": "Semanta"
+  },
+  "downloadThisPaper": {
+    "message": "Descarga este ensayo"
+  },
+  "instructions": {
+    "message": "Instrucciones"
+  },
+  "settings": {
+    "message": "Ajustes"
+  },
+  "rateMe": {
+    "message": "¿Puedes valorarme?"
+  },
+  "shareMe": {
+    "message": "Compartir"
+  },
+  "thanks": {
+    "message": "¡Gracias! "
+  },
+  "youHaveDownloaded": {
+    "message": "Has descargado"
+  },
+  "xPapers": {
+    "message": "ensayos académicos"
+  },
+  "paperSearchURL": {
+    "message": "URL de búsqueda de documentos"
+  },
+  "paperSearchURLExplanation": {
+    "message": "El dominio web con el que desea descargar el ensayo"
+  },
+  "openPapersInNewTab": {
+    "message": "Abrir ensayo en una nueva pestaña"
+  },
+  "openPapersInNewTabExplanation": {
+    "message": "Si esta opción está seleccionada, el ensayo aparecerá en una pestaña nueva"
+  },
+  "paperSearchDomains": {
+    "message": "Dominios de búsqueda para descargar ensayos"
+  },
+  "paperSearchDomainsExplanation": {
+    "message": "Si el ensayo académico no se descarga, prueba usar uno de estos:"
+  },
+  "instructionsURL": {
+    "message": "https://semanta.ir"
+  },
+  "welcomeURL": {
+    "message": "https://semanta.ir"
+  },
+  "goodbyeURL": {
+    "message": "https://semanta.ir"
+  },
+  "SemantaRecommends": {
+    "message": "Semanta recomienda"
+  },
+  "lastItem": {
+    "message": "last item"
+  }
+}

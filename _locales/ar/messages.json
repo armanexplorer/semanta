@@ -1,0 +1,68 @@
+{
+  "extName": {
+    "message": "بيبر باندا — المكان الذي تستطيع الحصول فيه على ملايين الأوراق البحثية."
+  },
+  "extDesc": {
+    "message": "تساعدك بيبر باندا على تحميل الأوراق."
+  },
+  "ext_default_title": {
+    "message": "Semanta"
+  },
+  "downloadThisPaper": {
+    "message": "قم بتحميل هذه الورقة"
+  },
+  "instructions": {
+    "message": "التعليمات"
+  },
+  "settings": {
+    "message": "الإعدادات"
+  },
+  "rateMe": {
+    "message": "يمني لو سمحت"
+  },
+  "thanks": {
+    "message": "شكراً!"
+  },
+  "shareMe": {
+    "message": "Share the Love"
+  },
+  "youHaveDownloaded": {
+    "message": "You have downloaded"
+  },
+  "xPapers": {
+    "message": "papers"
+  },
+  "paperSearchURL": {
+    "message": "رابط البحث عن الورقة"
+  },
+  "paperSearchURLExplanation": {
+    "message": "النطاق الذي ترغب باستخدامه لخدمة تحميل الأوراق"
+  },
+  "openPapersInNewTab": {
+    "message": "افتح ”الأوراق“ في علامة تبويب جديدة"
+  },
+  "openPapersInNewTabExplanation": {
+    "message": "اذا قمت بتحديد هذه الخيار، فستفتح ورقتك في علامة تبويب جديدة"
+  },
+  "paperSearchDomains": {
+    "message": "نطاقات البحث عن الأوراق"
+  },
+  "paperSearchDomainsExplanation": {
+    "message": "اذا كان رابط تحميل الأوراق المختار لا يعمل، قم بمحاولة اختيار أحد هذه الخيارات:"
+  },
+  "instructionsURL": {
+    "message": "https://semanta.ir"
+  },
+  "welcomeURL": {
+    "message": "https://semanta.ir"
+  },
+  "goodbyeURL": {
+    "message": "https://semanta.ir"
+  },
+  "SemantaRecommends": {
+    "message": "التوصيات"
+  },
+  "lastItem": {
+    "message": "last item"
+  }
+}

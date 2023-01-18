@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+        margin: 0;
+        padding: 0;
+        color: #18362e;
+        background-color: #dbe3dd;
+      }
+      .SemantaSettingsRow {
+        padding: 20px 20px;
+        border-top: 1px solid #94aba5;
+      }
+      
+      .SemantaSettingsLabel {
+        float: left;
+        font-size: 16px;
+      }
+      
+      .SemantaSettingsExplanation {
+        font-size: 11px;
+        margin-top: 10px;
+        color: #6a7c74;
+      }
+      
+      input {
+        float: right;
+      }
+      
+      input[type="text"] {
+        padding: 6px 10px;
+        border: 1px solid #737373;
+        border-radius: 3px;
+        background-color: white !important;
+        margin-top: 5px;
+        width: 90%;
+        margin-left: 0;
+        float: none;
+      }
+    
+      .clear {
+        clear: both;
+      }
+      
+      th {display: none;}
+      table {
+        margin-left: 0;
+        margin-right: 0;
+        width: 100%;
+        border-collapse: collapse;
+      }
+      table, th, td {
+        border: none;
+      }
+      td, th {
+        border: none;
+        padding: 15px 20px;
+        border-bottom: 1px solid #e8e8e8;
+      }
+      
+      table button {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+        margin-top: 5px;
+        font-size: 13px;
+        float: right;
+        cursor: pointer;
+        background: #dbe3dd;
+        border: 1px solid #18362e;
+        border-radius: 5px;
+        padding: 5px 10px;
+        color: #18362e;
+        font-weight: 500;
+      }
+      table button:hover {
+        color: #dbe3dd;
+        background: #18362e;
+        border: 1px solid #18362e;
+      }
+      .SemantaDomainSelection {
+          background: #fff;
+          width: 90%;
+          margin-left: 5%;
+      }
+      .alert-box {
+      padding: 15px;
+        margin-bottom: 20px;
+        border: 1px solid transparent;
+        border-radius: 4px;  
+      }
+
+      .success {
+          color: #3c763d;
+          background-color: #dff0d8;
+          border-color: #d6e9c6;
+          display: none;
+      }
+    </style>
+  </head>
+  <body>
+    
+    <div class="SemantaSettingsRow">
+      <br>
+      <div class="SemantaSettingsLabel"><span data-locale="paperSearchURL">Paper Search URL</span></div>
+      <input type="text" id="url"/>
+      <div class="clear"></div>
+
+      <div class="SemantaSettingsExplanation"><span data-locale="paperSearchURLExplanation">The domain for the paper downloading service you would like to use</span></div>
+    </div>
+
+  
+    
+  <!-- <div class="SemantaSettingsRow">
+    <div class="SemantaSettingsLabel">Check for backup domains</div>
+    <input type="checkbox" id="autocheck" checked="true"/>
+    <div class="clear"></div>
+
+    <div class="SemantaSettingsExplanation">If the paper downloading service you use is unreliable, Semanta can check for backups automatically</div>
+  </div> -->
+  <div class="SemantaSettingsRow">
+    <div class="SemantaSettingsLabel"><span data-locale="paperSearchDomains">Paper Search Domains</span></div>
+    <div class="clear"></div>
+
+    <div class="SemantaSettingsExplanation"><span data-locale="paperSearchDomainsExplanation">If the selected paper download URL is not working, try selecting one of these:</span> </div>
+  </div>
+    <div class="SemantaDomainSelection">
+      <table id="links">
+        <th></th>
+      </table>
+    </div>
+    <div style="clear:both"></div>
+    
+<br><br><br>
+    <div class="SemantaSettingsRow">
+      <div class="SemantaSettingsLabel"><span data-locale="openPapersInNewTab">Open Papers in new tab</span></div>
+      <input type="checkbox" id="newtab"/>
+      <div class="clear"></div>
+    
+      <div class="SemantaSettingsExplanation"><span data-locale="openPapersInNewTabExplanation">If this option is checked, your paper will open in a new tab</span></div>
+    </div>
+    <table>
+      <tbody>
+        <!-- <tr>
+          <td><div class="alert-box success">URL Saved!</div>
+        </tr> -->
+        <tr>
+          <td><button id="closeButton">Close</button></td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+  <script src="options.js"></script>
+</html>

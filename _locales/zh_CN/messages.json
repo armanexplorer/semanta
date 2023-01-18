@@ -1,0 +1,68 @@
+{
+  "extName": {
+    "message": "Semanta"
+  },
+  "extDesc": {
+    "message": "Semanta帮您下载研究论文"
+  },
+  "ext_default_title": {
+    "message": "Semanta"
+  },
+  "downloadThisPaper": {
+    "message": "下载这篇研究论文"
+  },
+  "instructions": {
+    "message": "说明"
+  },
+  "settings": {
+    "message": "设置"
+  },
+  "rateMe": {
+    "message": "请评价"
+  },
+  "shareMe": {
+    "message": "分享"
+  },
+  "thanks": {
+    "message": "谢谢 "
+  },
+  "youHaveDownloaded": {
+    "message": "您已下载"
+  },
+  "xPapers": {
+    "message": "研究论文"
+  },
+  "paperSearchURL": {
+    "message": "研究论文搜索网址"
+  },
+  "paperSearchURLExplanation": {
+    "message": "您想使用的研究论文下载服务的域名"
+  },
+  "openPapersInNewTab": {
+    "message": "在新标签页打开研究论文"
+  },
+  "openPapersInNewTabExplanation": {
+    "message": "如您勾选此项，您的研究论文将在新标签页打开"
+  },
+  "paperSearchDomains": {
+    "message": "研究论文搜索域名"
+  },
+  "paperSearchDomainsExplanation": {
+    "message": "如果所选的研究论文下载 URL 不起作用，请尝试以下选项："
+  },
+  "instructionsURL": {
+    "message": "https://semanta.ir"
+  },
+  "welcomeURL": {
+    "message": "https://semanta.ir"
+  },
+  "goodbyeURL": {
+    "message": "https://semanta.ir"
+  },
+  "SemantaRecommends": {
+    "message": "Semanta 推荐"
+  },
+  "lastItem": {
+    "message": "last item"
+  }
+}

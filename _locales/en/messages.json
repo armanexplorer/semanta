@@ -1,0 +1,68 @@
+{
+  "extName": {
+    "message": "Semanta — Get millions of research papers"
+  },
+  "extDesc": {
+    "message": "Semanta helps you download papers"
+  },
+  "ext_default_title": {
+    "message": "Semanta"
+  },
+  "downloadThisPaper": {
+    "message": "Download this paper"
+  },
+  "instructions": {
+    "message": "Instructions"
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "rateMe": {
+    "message": "Please Rate Me"
+  },
+  "thanks": {
+    "message": "Thanks! "
+  },
+  "shareMe": {
+    "message": "Share the Love"
+  },
+  "youHaveDownloaded": {
+    "message": "You have downloaded"
+  },
+  "xPapers": {
+    "message": "papers"
+  },
+  "paperSearchURL": {
+    "message": "Paper Search URL"
+  },
+  "paperSearchURLExplanation": {
+    "message": "The domain for the paper downloading service you would like to use"
+  },
+  "openPapersInNewTab": {
+    "message": "Open Papers in new tab"
+  },
+  "openPapersInNewTabExplanation": {
+    "message": "If this option is checked, your paper will open in a new tab"
+  },
+  "paperSearchDomains": {
+    "message": "Paper Search Domains"
+  },
+  "paperSearchDomainsExplanation": {
+    "message": "If the selected paper download URL is not working, try selecting one of these:"
+  },
+  "instructionsURL": {
+    "message": "https://semanta.ir"
+  },
+  "welcomeURL": {
+    "message": "https://semanta.ir"
+  },
+  "goodbyeURL": {
+    "message": "https://semanta.ir"
+  },
+  "SemantaRecommends": {
+    "message": "Semanta recommends"
+  },
+  "lastItem": {
+    "message": "last item"
+  }
+}

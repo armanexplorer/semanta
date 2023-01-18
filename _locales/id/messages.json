@@ -1,0 +1,68 @@
+{
+  "extName": {
+    "message": "Semanta Dapatkan jutaan makalah penelitian"
+  },
+  "extDesc": {
+    "message": "Semanta akan membantumu mengunduh makalah"
+  },
+  "ext_default_title": {
+    "message": "Semanta"
+  },
+  "downloadThisPaper": {
+    "message": "Unduh makalah ini"
+  },
+  "instructions": {
+    "message": "Instruksi"
+  },
+  "settings": {
+    "message": "Pengaturan"
+  },
+  "rateMe": {
+    "message": "Mohon Berikan Rating"
+  },
+  "thanks": {
+    "message": "Terimakasih! "
+  },
+  "shareMe": {
+    "message": "Share the Love"
+  },
+  "youHaveDownloaded": {
+    "message": "You have downloaded"
+  },
+  "xPapers": {
+    "message": "papers"
+  },
+  "paperSearchURL": {
+    "message": "URL Pencarian Makalah"
+  },
+  "paperSearchURLExplanation": {
+    "message": "Domain untuk layanan pengunduhan makalah yang ingin Anda gunakan"
+  },
+  "openPapersInNewTab": {
+    "message": "Buka Makalah di tab baru"
+  },
+  "openPapersInNewTabExplanation": {
+    "message": "Jika opsi ini di-ceklis, makalah anda akan dibuka di tab baru"
+  },
+  "paperSearchDomains": {
+    "message": "Domain Pencarian Makalah"
+  },
+  "paperSearchDomainsExplanation": {
+    "message": "Jika URL pengunduhan makalah yang dipilih tidak berfungsi, coba pilih salah satu dari ini:"
+  },
+  "instructionsURL": {
+    "message": "https://semanta.ir"
+  },
+  "welcomeURL": {
+    "message": "https://semanta.ir"
+  },
+  "goodbyeURL": {
+    "message": "https://semanta.ir"
+  },
+  "SemantaRecommends": {
+    "message": "Semanta recommends"
+  },
+  "lastItem": {
+    "message": "last item"
+  }
+}

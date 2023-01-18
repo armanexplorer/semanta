@@ -1,0 +1,68 @@
+{
+  "extName": {
+    "message": "Semanta - Доступ к миллионам научных работ"
+  },
+  "extDesc": {
+    "message": "Semanta помогает загрузить научные работы"
+  },
+  "ext_default_title": {
+    "message": "Semanta"
+  },
+  "downloadThisPaper": {
+    "message": "Загрузить этот файл"
+  },
+  "instructions": {
+    "message": "Инструкции"
+  },
+  "settings": {
+    "message": "Настройки"
+  },
+  "rateMe": {
+    "message": "Пожалуйста Оцените Меня"
+  },
+  "thanks": {
+    "message": "Спасибо! "
+  },
+  "shareMe": {
+    "message": "Share the Love"
+  },
+  "youHaveDownloaded": {
+    "message": "Вы загрузили"
+  },
+  "xPapers": {
+    "message": "файлов"
+  },
+  "paperSearchURL": {
+    "message": "Поиск файла по URL"
+  },
+  "paperSearchURLExplanation": {
+    "message": "Предпочитаемый Вами домен для загрузки файла"
+  },
+  "openPapersInNewTab": {
+    "message": "Открыть Файлы в новой вкладке"
+  },
+  "openPapersInNewTabExplanation": {
+    "message": "Зачеркните это поле для открытия файла в новой вкладке"
+  },
+  "paperSearchDomains": {
+    "message": "Поиск файлов по доменам"
+  },
+  "paperSearchDomainsExplanation": {
+    "message": "Если URL выбранного Вами файла не работает, попробуйте выбрать один из этих:"
+  },
+  "instructionsURL": {
+    "message": "https://semanta.ir"
+  },
+  "welcomeURL": {
+    "message": "https://semanta.ir"
+  },
+  "goodbyeURL": {
+    "message": "https://semanta.ir"
+  },
+  "SemantaRecommends": {
+    "message": "Semanta recommends"
+  },
+  "lastItem": {
+    "message": "last item"
+  }
+}
