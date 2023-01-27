@@ -50,7 +50,7 @@ if (typeof chrome !== "undefined" && chrome){
   }
 
   function santizeDOI(doiStr) {
-    const re = /(.+)\.pdf.*/;
+    const re = /(.+)(\.pdf|\/cover).*/;
     newDoiStr = doiStr.replace(re, '$1');
     return newDoiStr
   }
